@@ -1,0 +1,41 @@
+.banner {
+    background-color:#808080;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.pic {
+    background-image:url(http://i63.tinypic.com/34rd1di.jpg);
+    background-repeat: no-repeat;
+    background-position: 55%;
+    border-radius: 50%;
+    border: 8px solid darkgray;
+    width: 400px;
+    height: 400px;
+    margin: auto;
+}
+h1 {
+    font-size:3em;
+    text-align:left;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+h2 {
+    font-size:1.25em;
+    text-align:left;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.lines {
+    text-align: center;
+    background-position: 55%;
+}
+table {
+    background-color: #808080;
+}
+top {
+    border-bottom-width: 2px solid black;
+
+
+}
+Headers {
+    font-size: 2em;
+}
